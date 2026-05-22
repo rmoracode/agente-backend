@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+duckdb
+pandas
+pyarrow
+pydantic
+tableauserverclient
+polars
